@@ -51,7 +51,7 @@ Notice that these are the only items you can convert between weight and volumes 
 
 **Berries and fruit:** blackberry, blueberry, raspberry, strawberry, lingonberry, plums, raisins
 
-**Blowing agents** (*if you know what I mean*)**:** baking_powder, bicarbonate, dry_yeast
+**"Blowing agents"**: baking_powder, bicarbonate, dry_yeast
 
 **Dairy:** creme_fraiche, feta_cheese, sour_milk, cream, sour_cream, quark, cottage_cheese, milk, shredded_cheese, shredded_parmesan_cheese, cream_cheese, whipping_cream, yogurt, margarine, coconut_butter, coconut_oil, coconut_milk, cooking_oil, olive_oil, butter
 
