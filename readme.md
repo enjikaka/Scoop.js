@@ -74,5 +74,20 @@ Notice that these are the only items you can convert between weight and volumes 
 **Misc:** gelatin_powder, peanut_butter, flaked_almonds, salt, soy, egg, yolk, albumen, cocoa
 
 
+## Examples ##
+
+#### Converting from liter to fluid ounce ####
+	new Scoop(1,'l').as('oz');
+	// Returns 33.8140227
+#### Converting from pounds to kilograms ####
+	new Scoop(129,'lb').as('kg');
+	// Returns 58.51341573000000
+#### Converting an ingredient from weight to volume ####
+	new Scoop(1,'kg','wheat_flour').as('dl');
+	// Returns 6
+
+	new Scoop(10,'lb','light_syrup').as('cup');
+	// Returns 13.49977291666667
+
   [1]: http://j.mp/1dDraAC
   [2]: http://www.recepten.se/artiklar/maatt_enheter.html
