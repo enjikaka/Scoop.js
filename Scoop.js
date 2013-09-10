@@ -1,5 +1,5 @@
 Array.prototype.contain = function(a) {
-	return (this.indexOf(a) !== -1) ? true : false;
+	return (this.indexOf(a) !== -1);
 };
 
 var Scoop = function(v, m, n) {
